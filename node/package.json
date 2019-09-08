@@ -10,6 +10,7 @@
   "license": "MIT",
   "dependencies": {
     "msgpack5": "^4.2.1",
+    "sqlite3": "^4.1.0",
     "zeromq": "^5.1.0"
   }
 }
