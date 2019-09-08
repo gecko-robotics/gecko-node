@@ -1,10 +1,7 @@
 #!/usr/bin/env node
 
 var msgpack = require('msgpack5')();
-// var encode = msgpack.encode;
 var decode = msgpack.decode;
-
-// subber.js
 var zmq = require('zeromq');
 var sock = zmq.socket('sub');
 const url = new URL('tcp://127.0.0.1:3000');
