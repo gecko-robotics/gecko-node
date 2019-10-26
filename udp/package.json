@@ -1,5 +1,5 @@
 {
-  "name": "gnode",
+  "name": "udp",
   "version": "0.0.1",
   "description": "",
   "main": "pub.js",
@@ -8,10 +8,5 @@
   },
   "author": "",
   "license": "MIT",
-  "dependencies": {
-    "msgpack": "^1.0.3",
-    "msgpack5": "^4.2.1",
-    "sqlite3": "^4.1.0",
-    "zeromq": "^5.1.0"
-  }
+  "dependencies": {}
 }
